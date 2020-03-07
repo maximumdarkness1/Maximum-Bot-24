@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/maximumdarkness1/Maximum-Bot-24)](https://repl.it/github/maximumdarkness1/Maximum-Bot-24)
 <img align="right" alt="Ajv logo" width="160" src="http://epoberezkin.github.io/ajv/images/ajv_logo.png">
 
 # Ajv: Another JSON Schema Validator
